@@ -17,6 +17,15 @@ q.center {
 	height: 350px;
 }
 
+img.slide-mid-image {
+	height: 250px;
+	overflow: hidden;
+}
+
+.text-center {
+	text-align: center;
+}
+
 #title span.try {
 	top: -1.5em;
 	left: 0;
@@ -37,6 +46,7 @@ h2.title-center {
 	font-size: 3rem;
 	text-align: center;
 	margin-bottom: 30px;
+
 }
 
 code.inline {
